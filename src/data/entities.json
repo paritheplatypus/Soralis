@@ -1,0 +1,267 @@
+[
+  {
+    "slug": "mercury",
+    "title": "Mercury",
+    "tags": [
+      "planet",
+      "rocky",
+      "innermost"
+    ],
+    "heroColor": "#9ca3af",
+    "facts": {
+      "radius_km": 2439.7,
+      "gravity_g": 0.38,
+      "orbital_period_days": 88
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "md": "Mercury is the smallest planet and orbits closest to the Sun. Its surface is cratered like the Moon. Temperatures swing from scorching days to freezing nights due to the thin exosphere."
+      }
+    ],
+    "sources": [
+      "https://science.nasa.gov/mercury/"
+    ]
+  },
+  {
+    "slug": "venus",
+    "title": "Venus",
+    "tags": [
+      "planet",
+      "rocky",
+      "clouds"
+    ],
+    "heroColor": "#ffd166",
+    "facts": {
+      "radius_km": 6051.8,
+      "gravity_g": 0.9,
+      "orbital_period_days": 225
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "md": "Venus has a dense carbon-dioxide atmosphere and sulfuric-acid clouds. Surface pressure is 90 times Earth's. It rotates backward, making its day longer than its year."
+      }
+    ],
+    "sources": [
+      "https://science.nasa.gov/venus/"
+    ]
+  },
+  {
+    "slug": "earth",
+    "title": "Earth",
+    "tags": [
+      "planet",
+      "habitable",
+      "water"
+    ],
+    "heroColor": "#6ee7b7",
+    "facts": {
+      "radius_km": 6371,
+      "gravity_g": 1.0,
+      "orbital_period_days": 365.25
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "md": "Earth is the only known world with surface liquid water and life. Plate tectonics recycle the crust. A protective magnetosphere deflects many charged particles from the Sun."
+      }
+    ],
+    "sources": [
+      "https://science.nasa.gov/earth/"
+    ]
+  },
+  {
+    "slug": "moon",
+    "title": "Moon",
+    "tags": [
+      "satellite",
+      "craters"
+    ],
+    "heroColor": "#e5e7eb",
+    "facts": {
+      "radius_km": 1737.4,
+      "gravity_g": 0.165,
+      "orbital_period_days": 27.3
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "md": "The Moon is Earth's only natural satellite. Tidally locked, it always shows the same face. Ancient lava plains called maria contrast with heavily cratered highlands."
+      }
+    ],
+    "sources": [
+      "https://science.nasa.gov/moon/"
+    ]
+  },
+  {
+    "slug": "mars",
+    "title": "Mars",
+    "tags": [
+      "planet",
+      "rocky",
+      "dust"
+    ],
+    "heroColor": "#ff6b6b",
+    "facts": {
+      "radius_km": 3389.5,
+      "gravity_g": 0.38,
+      "orbital_period_days": 687
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "md": "Mars hosts the largest volcano, Olympus Mons, and a deep canyon system, Valles Marineris. Polar caps grow and shrink with the seasons. Rovers seek signs of past habitability."
+      }
+    ],
+    "sources": [
+      "https://science.nasa.gov/mars/"
+    ]
+  },
+  {
+    "slug": "jupiter",
+    "title": "Jupiter",
+    "tags": [
+      "planet",
+      "gas giant",
+      "storms"
+    ],
+    "heroColor": "#fca5a5",
+    "facts": {
+      "radius_km": 69911,
+      "gravity_g": 2.53,
+      "orbital_period_days": 4333
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "md": "Jupiter is a massive gas giant. The Great Red Spot is a centuries-old storm. It has the strongest planetary magnetic field and a retinue of moons including Io, Europa, Ganymede, and Callisto."
+      }
+    ],
+    "sources": [
+      "https://science.nasa.gov/jupiter/"
+    ]
+  },
+  {
+    "slug": "saturn",
+    "title": "Saturn",
+    "tags": [
+      "planet",
+      "rings",
+      "gas giant"
+    ],
+    "heroColor": "#fde68a",
+    "facts": {
+      "radius_km": 58232,
+      "gravity_g": 1.07,
+      "orbital_period_days": 10759
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "md": "Saturn's ring system is made of countless icy particles. The moon Titan has thick nitrogen air. Hexagonal jets encircle its north pole; storms can wrap around the planet."
+      }
+    ],
+    "sources": [
+      "https://science.nasa.gov/saturn/"
+    ]
+  },
+  {
+    "slug": "uranus",
+    "title": "Uranus",
+    "tags": [
+      "planet",
+      "ice giant",
+      "tilted"
+    ],
+    "heroColor": "#93c5fd",
+    "facts": {
+      "radius_km": 25362,
+      "gravity_g": 0.89,
+      "orbital_period_days": 30687
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "md": "Uranus spins on its side, likely due to an ancient impact. Methane absorbs red light, giving its blue-green hue. Narrow rings and many small moons orbit the planet."
+      }
+    ],
+    "sources": [
+      "https://science.nasa.gov/uranus/"
+    ]
+  },
+  {
+    "slug": "neptune",
+    "title": "Neptune",
+    "tags": [
+      "planet",
+      "ice giant",
+      "winds"
+    ],
+    "heroColor": "#4ea8de",
+    "facts": {
+      "radius_km": 24622,
+      "gravity_g": 1.14,
+      "orbital_period_days": 60190
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "md": "Neptune's supersonic winds drive dark storm systems that come and go. Triton, a captured Kuiper Belt object, has geysers. The planet radiates more heat than it receives."
+      }
+    ],
+    "sources": [
+      "https://science.nasa.gov/neptune/"
+    ]
+  },
+  {
+    "slug": "europa",
+    "title": "Europa",
+    "tags": [
+      "moon",
+      "jupiter",
+      "ice",
+      "ocean"
+    ],
+    "heroColor": "#7dd3fc",
+    "facts": {
+      "radius_km": 1560.8,
+      "gravity_g": 0.134,
+      "orbital_period_days": 3.55
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "md": "Europa likely hides a salty ocean beneath an icy crust. Tidal flexing from Jupiter may keep water liquid and drive chemistry\u2014making it a top target for habitability studies."
+      }
+    ],
+    "sources": [
+      "https://science.nasa.gov/solar-system/jupiter/moons/europa/"
+    ]
+  },
+  {
+    "slug": "titan",
+    "title": "Titan",
+    "tags": [
+      "moon",
+      "saturn",
+      "methane",
+      "atmosphere"
+    ],
+    "heroColor": "#f5a524",
+    "facts": {
+      "radius_km": 2574.7,
+      "gravity_g": 0.138,
+      "orbital_period_days": 15.95
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "md": "Titan has a dense nitrogen atmosphere and methane lakes, rivers, and rain. Dunes of hydrocarbon grains cover equatorial regions. NASA's Dragonfly rotorcraft will explore it."
+      }
+    ],
+    "sources": [
+      "https://science.nasa.gov/solar-system/saturn/moons/titan/"
+    ]
+  }
+]

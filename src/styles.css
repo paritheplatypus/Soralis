@@ -1,0 +1,27 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+.glass { @apply bg-white/5 border border-white/10 backdrop-blur-md shadow-xl; }
+
+.font-celestial {
+  font-family: 'Bellefair', serif;
+  letter-spacing: 0.2px;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fade-in 500ms ease-out;
+}
+
+@keyframes soft-pulse { 0%{opacity:.6} 50%{opacity:1} 100%{opacity:.6} }
+.animate-pulse { animation: soft-pulse 2.2s ease-in-out infinite; }
+
+@keyframes spin-slow { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+.animate-spin-slow { animation: spin-slow 40s linear infinite; }
